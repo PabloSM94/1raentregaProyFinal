@@ -1,0 +1,94 @@
+
+h1{
+    text-align: center;
+}
+h2{
+    color:darkgray;
+}
+#next{
+    text-decoration: none;
+    color: white;
+}
+
+.principal{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    justify-items: center;
+    text-align: center;
+}
+
+.entradas{
+    justify-items: center;
+}
+
+.proxima{
+    text-align: center;
+}
+
+td{
+    color:aliceblue;
+}
+
+.tabla{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    text-align: center;
+    margin:auto;
+}
+
+.alerta{
+    width: 95%;
+    margin:auto;
+}
+
+li{
+    display: flex;
+    gap: 2px;
+}
+
+.autor{
+    color:blue;
+    text-decoration: none;
+}
+
+.fecha{
+    color: brown;
+    font-weight:lighter;
+    text-decoration: none;
+}
+
+.texto{
+    color:green;
+    font-style: italic;
+    font-weight:lighter;
+    text-decoration:none;
+}
+
+#mensajes{
+    background-color:darkgray;
+    display:flex;
+    align-content: center;
+    padding:5px;
+    width: 90%;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+ul{
+    text-align: left;
+    color:black;
+    font-weight: bold;
+    
+}
+
+ul div {
+    text-decoration: underline;
+}
+
+#enlaces{
+    text-decoration: none;
+    color: white;
+}
